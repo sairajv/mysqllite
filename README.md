@@ -1,1 +1,1 @@
-# mysqllite
+# This is my version of building my own mysqllite, following https://cstack.github.io/db_tutorial/, hopefully I can add my own features afterwards. 
